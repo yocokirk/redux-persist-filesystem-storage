@@ -10,6 +10,6 @@
   "author": "Rob Walker",
   "license": "MIT",
   "dependencies": {
-    "react-native-fetch-blob": "^0.10.0"
+    "react-native-fetch-blob": "git+https://github.com/yoco-tech/react-native-fetch-blob.git#getParentFile-yoco"
   }
 }
