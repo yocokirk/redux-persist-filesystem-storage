@@ -10,6 +10,6 @@
   "author": "Rob Walker",
   "license": "MIT",
   "dependencies": {
-    "react-native-fetch-blob": "git+https://github.com/yoco-tech/react-native-fetch-blob.git#getParentFile-yoco"
+    "react-native-fetch-blob": "git+https://github.com/yocokirk/react-native-fetch-blob.git#background-timer"
   }
 }
